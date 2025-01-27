@@ -5,7 +5,7 @@
 </div>
 
 
-<h1 align="center">A passionate BackEnd Developer from Indonesia</h1>
+<h2 align="center">A passionate BackEnd Developer from Indonesia</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thoriqwildan&label=Profile%20views&color=0e75b6&style=flat" alt="thoriqwildan" /> </p>
 
