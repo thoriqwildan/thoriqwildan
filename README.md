@@ -4,8 +4,8 @@
   <img style="width: 100%;" src="https://github.com/thoriqwildan/thoriqwildan/blob/main/kirby-gif-cropped.gif"  />
 </div>
 
-===
-<h3 align="center">A passionate BackEnd Developer from Indonesia</h3>
+
+<h1 align="center">A passionate BackEnd Developer from Indonesia</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thoriqwildan&label=Profile%20views&color=0e75b6&style=flat" alt="thoriqwildan" /> </p>
 
