@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="380" src="https://i.pinimg.com/originals/55/fc/4b/55fc4bee7c31f0850262da53fa1e3180.gif"  />
-</div>
-
 <h1 align="center">Hi 👋, I'm Thoriq</h1>
 <h3 align="center">A passionate BackEnd Developer from Indonesia</h3>
 
@@ -12,6 +8,10 @@
 - 👨‍💻 All of my projects are available at [thoriqwildan.my.id](thoriqwildan.my.id)
 
 - 📫 How to reach me **wildanthoriq14@gmail.com**
+
+<div align="right">
+  <img height="380" src="https://i.pinimg.com/originals/55/fc/4b/55fc4bee7c31f0850262da53fa1e3180.gif"  />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
