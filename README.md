@@ -1,6 +1,6 @@
 
 <div align="right">
-  <img style="width: 100%;" src="https://i.pinimg.com/originals/55/fc/4b/55fc4bee7c31f0850262da53fa1e3180.gif"  />
+  <img style="width: 100%;" src="https://github.com/thoriqwildan/thoriqwildan/blob/main/kirby-gif-cropped.gif"  />
 </div>
 
 
