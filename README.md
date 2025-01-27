@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="380" src="https://i.pinimg.com/originals/55/fc/4b/55fc4bee7c31f0850262da53fa1e3180.gif"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Thoriq</h1>
 <h3 align="center">A passionate BackEnd Developer from Indonesia</h3>
 
