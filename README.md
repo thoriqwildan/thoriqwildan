@@ -28,4 +28,6 @@
 
 <img src="https://raw.githubusercontent.com/thoriqwildan/thoriqwildan/output/snake.svg" style="width: 100%;" alt="Snake animation" />
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thoriqwildan&show_icons=true&locale=en&layout=compact" alt="thoriqwildan" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thoriqwildan&show_icons=true&locale=en" alt="thoriqwildan" /></p>
