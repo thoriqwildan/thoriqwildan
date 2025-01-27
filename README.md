@@ -1,17 +1,20 @@
+
+<div align="right">
+  <img height="380" src="https://i.pinimg.com/originals/55/fc/4b/55fc4bee7c31f0850262da53fa1e3180.gif"  />
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Thoriq</h1>
 <h3 align="center">A passionate BackEnd Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thoriqwildan&label=Profile%20views&color=0e75b6&style=flat" alt="thoriqwildan" /> </p>
+
 
 - 🌱 I’m currently learning **Nest JS**
 
 - 👨‍💻 All of my projects are available at [thoriqwildan.my.id](thoriqwildan.my.id)
 
 - 📫 How to reach me **wildanthoriq14@gmail.com**
-
-<div align="right">
-  <img height="380" src="https://i.pinimg.com/originals/55/fc/4b/55fc4bee7c31f0850262da53fa1e3180.gif"  />
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
