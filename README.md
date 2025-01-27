@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thoriq</h1>
+<h1 align="center">Hi 👋, I'm Thoriq Wildan</h1>
 
 <div align="right">
   <img style="width: 100%;" src="https://github.com/thoriqwildan/thoriqwildan/blob/main/kirby-gif-cropped.gif"  />
